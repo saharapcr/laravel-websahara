@@ -20,3 +20,6 @@
 2026-09-28T14:09:42.836720Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
 2026-09-28T14:09:42.861387Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
 2026-09-28T14:09:42.861427Z 0 [System] [MY-010931] [Server] D:\saharalaragon\laragon-6.0-minimal\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2026-09-28T15:54:42.010901Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2026-09-28T15:54:42.010940Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2026-09-28T15:54:42.010960Z 0 [System] [MY-010116] [Server] D:\saharalaragon\laragon-6.0-minimal\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 1360
