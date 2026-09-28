@@ -1,0 +1,15 @@
+2026-09-21T01:03:09.034416Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2026-09-21T01:03:09.034470Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2026-09-21T01:03:09.034503Z 0 [System] [MY-010116] [Server] D:\saharalaragon\laragon-6.0-minimal\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 556
+2026-09-21T01:03:09.063388Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-09-21T01:03:09.213851Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-09-21T01:03:09.487611Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: D:\saharalaragon\laragon-6.0-minimal\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2026-09-21T01:03:09.491784Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-09-21T01:03:09.492001Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-09-21T01:03:09.492689Z 0 [ERROR] [MY-010262] [Server] Can't start server: Bind on TCP/IP port: Only one usage of each socket address (protocol/network address/port) is normally permitted. 
+2026-09-21T01:03:09.493057Z 0 [ERROR] [MY-010257] [Server] Do you already have another mysqld server running on port: 3306 ?
+2026-09-21T01:03:09.493297Z 0 [ERROR] [MY-010119] [Server] Aborting
+2026-09-21T01:03:10.677901Z 0 [System] [MY-010910] [Server] D:\saharalaragon\laragon-6.0-minimal\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2026-09-28T14:09:42.447802Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2026-09-28T14:09:42.448457Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2026-09-28T14:09:42.448480Z 0 [System] [MY-010116] [Server] D:\saharalaragon\laragon-6.0-minimal\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 5224
